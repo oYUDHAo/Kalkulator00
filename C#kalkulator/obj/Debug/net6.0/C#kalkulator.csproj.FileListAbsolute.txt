@@ -1,0 +1,15 @@
+D:\kuliah\Skilvul\C#kalkulator\bin\Debug\net6.0\C#kalkulator.exe
+D:\kuliah\Skilvul\C#kalkulator\bin\Debug\net6.0\C#kalkulator.deps.json
+D:\kuliah\Skilvul\C#kalkulator\bin\Debug\net6.0\C#kalkulator.runtimeconfig.json
+D:\kuliah\Skilvul\C#kalkulator\bin\Debug\net6.0\C#kalkulator.dll
+D:\kuliah\Skilvul\C#kalkulator\bin\Debug\net6.0\C#kalkulator.pdb
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.csproj.AssemblyReference.cache
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.AssemblyInfoInputs.cache
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.AssemblyInfo.cs
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.csproj.CoreCompileInputs.cache
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.dll
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\refint\C#kalkulator.dll
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.pdb
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\C#kalkulator.genruntimeconfig.cache
+D:\kuliah\Skilvul\C#kalkulator\obj\Debug\net6.0\ref\C#kalkulator.dll
